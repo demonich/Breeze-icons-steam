@@ -16,4 +16,8 @@ For KDE PLASMA
 ![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/f72fd9d3-70a9-4c70-9ffd-b72ee517fdc2)
 ![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/a5e4546a-fa07-4216-aa52-023c70faa3cc)
 
+![steam-colorscheme-folders](https://github.com/demonich/Breeze-icons-steam/assets/74813436/b7d7541f-d827-422e-bed5-ecdd94100789)
 
+![steam-colorscheme-folders-2](https://github.com/demonich/Breeze-icons-steam/assets/74813436/9c2ea041-da8b-4c77-bd5b-60603a187925)
+
+![steam-colorscheme-folders-3](https://github.com/demonich/Breeze-icons-steam/assets/74813436/8fa4eba5-1608-430f-9f6b-9778e7586ab4)
