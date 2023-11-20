@@ -2,9 +2,9 @@
 Steam folder icon for breeze icon theme with different sizes
 # Installation
 For KDE PLASMA
-1. Download archive and put "breeze" and "breeze-dark" in "/home/"yourname"/.local/share/icons/"
-2. Now go to properties of your "SteamLibrary" folder and press on folder icon
-3. From menu choose folder-steam or folder-steam-round
+1. Download archive and put "breeze" and "breeze-dark" in "/home/"yourname"/.local/share/icons/".
+2. Now go to properties of your "SteamLibrary" folder and press on folder icon. Icon picker window will appear.
+3. In there find and select "folder-steam" or "folder-steam-round"
 # Screenshots
 ![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/1e30ac8e-cd5e-4068-98f3-86201750ddab)
 ![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/d05f8dd8-ad3b-445c-9de5-b11a05216cdf)
