@@ -7,9 +7,7 @@ For KDE PLASMA
 3. From menu choose folder-steam or folder-steam-round
 # Screenshots
 ![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/1e30ac8e-cd5e-4068-98f3-86201750ddab)
-
-![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/dda5809d-2033-4e59-9a8d-f5a6df948106)
-
+![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/d05f8dd8-ad3b-445c-9de5-b11a05216cdf)
 
 ![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/765ea914-ed0c-4daf-b41f-4a57cc1db5eb)
 ![изображение](https://github.com/demonich/Breeze-icons-steam/assets/74813436/eecac991-d543-4a89-bfc0-afd7cfeb3061)
